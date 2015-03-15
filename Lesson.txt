@@ -1,0 +1,12 @@
+10
+
+5
+Ap 3       100
+
+Fundamental_of_computer   4   20
+
+Fizik_1_Lab      1     10
+
+Formal_Language 3      10
+
+Electronic 3     60

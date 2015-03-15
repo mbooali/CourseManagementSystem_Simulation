@@ -1,0 +1,125 @@
+810186361:
+Average:  -1.#IND
+Average:  -1.#IND
+Average:  -1.#IND
+Average:  -1.#IND
+Average:  -1.#IND
+810186429:
+Average:  -1.#IND
+Formal_Language:6
+Average:  6
+Average:  6
+Average:  6
+Ap:15
+Average:  10.5
+810186365:
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+810187002:
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+810187001:
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+810187000:
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+Average:  1.#INF
+810186361:
+Average:  -1.#IND
+810186429:
+Formal_Language:15
+Ap:18
+Average:  16.5
+810186365:
+Average:  1.#INF
+810187002:
+Average:  1.#INF
+810187001:
+Average:  1.#INF
+810187000:
+Average:  1.#INF
+810186361:
+810186361:
+810186361:
+Average:  -1.#IND
+810186429:
+Formal_Language:17
+Ap:11
+Average:  14
+810186365:
+Average:  1.#INF
+810187002:
+Average:  1.#INF
+810187001:
+Average:  1.#INF
+810187000:
+Average:  1.#INF
+810186361:
+Average:  -1.#IND
+810186429:
+Formal_Language:11
+Ap:5
+Average:  8
+810186365:
+Average:  1.#INF
+810187002:
+Average:  1.#INF
+810187001:
+Average:  1.#INF
+810187000:
+Average:  1.#INF
+810186361:
+Average:  -1.#IND
+810186429:
+Formal_Language:20
+Ap:5
+Average:  12.5
+810186365:
+Average:  1.#INF
+810187002:
+Average:  1.#INF
+810187001:
+Average:  1.#INF
+810187000:
+Average:  1.#INF
+810186361:
+Average:  -1.#IND
+810186429:
+Formal_Language:7
+Ap:9
+Average:  8
+810186365:
+Average:  1.#INF
+810187002:
+Average:  1.#INF
+810187001:
+Average:  1.#INF
+810187000:
+Average:  1.#INF
+810186361:
+810186361:
+Average:  -1.#IND
+810186429:
+Formal_Language:8
+Ap:1
+Average:  4.5
+810186365:
+Average:  1.#INF
+810187002:
+Average:  1.#INF
+810187001:
+Average:  1.#INF
+810187000:
+Average:  1.#INF
